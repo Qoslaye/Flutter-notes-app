@@ -7,7 +7,7 @@ import 'login_page.dart';
 
 class HomePage extends StatefulWidget {
   final List<String>? initialNotes;
-  
+
   const HomePage({super.key, this.initialNotes});
 
   @override
